@@ -11,4 +11,4 @@ def model3():
 
 
 
-print("model 3 is best and will be used")
+print("model 1 is best and will be used")
