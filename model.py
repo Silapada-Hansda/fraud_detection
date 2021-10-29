@@ -8,3 +8,5 @@ def model2():
 
 def model3():
     print("addign code for model 3")
+
+print("model 2 is best and will be used")
